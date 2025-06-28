@@ -1,17 +1,17 @@
 # $#AR3
 
-$ pkg update && pkg upgrade
+ pkg update && pkg upgrade
 
-$ pkg install python
+ pkg install python
 
-$ pip install requests
+ pip install requests
 
-$ pip install bs4
+ pip install bs4
 
-$ git clone https://github.com/Jeruz15/SHARE
+ git clone https://github.com/Jeruz15/SHARE
 
-$ cd share
+ cd share
 
-$ python autosharefb.py
+ python autosharefb.py
 
  
