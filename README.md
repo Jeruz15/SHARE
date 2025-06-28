@@ -8,7 +8,7 @@ $ pip install requests
 
 $ pip install bs4
 
-$ git clone https://github.com/JERUZ-15/SHARE
+$ git clone https://github.com/Jeruz15/SHARE
 
 $ cd share
 
